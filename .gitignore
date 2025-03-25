@@ -1,0 +1,11 @@
+# Ignora todos los archivos de texto
+*.xlsx
+__pycache__
+*.txt
+7- Datos_AnalizarCSV
+Resultados_Competencias1
+desk
+build
+dist
+example
+utilities/backup
