@@ -86,4 +86,4 @@ El proyecto está organizado de la siguiente manera:
    
 ## Autores ✒️
 
-* **Yuri Mercedes Bermudez Mazuera** - *Documentación y Desarrollo de software* - [example](https://github.com/example)
+* **Yuri Mercedes Bermudez Mazuera** - *Documentación y Desarrollo de software*
